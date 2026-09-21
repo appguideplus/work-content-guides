@@ -5,7 +5,7 @@ Adobe Acrobat PDF 작업, Notta 전사·자막, Fiverr 영상 편집 외주 준�
 ## 바로가기
 
 - [AppGuide+ 전체목차](https://github.com/appguideplus/app-guides/blob/main/README.md)
-- [앱별 웹 가이드](https://appguideplus.com/ko/apps/) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
+- [앱별 웹 가이드](https://appguideplus.com/ko/apps/?utm_source=github) · [카카오톡 채널](https://pf.kakao.com/_bxkarX)
 
 ## 서비스별 목차
 
