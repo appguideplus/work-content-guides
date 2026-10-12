@@ -1,6 +1,6 @@
-# PDF·녹음 전사·영상 편집 의뢰: Acrobat·Notta·Fiverr
+# PDF·녹음 전사·영상 편집·팀 메신저 안내
 
-Adobe Acrobat PDF 작업, Notta 전사·자막, Fiverr 영상 편집 외주 준비를 각각 안내합니다.
+Adobe Acrobat PDF 작업, Notta 전사·자막, Fiverr 영상 편집 외주 준비를 각각 안내하고, 팀 메신저의 클라우드·자체 서버 선택도 살펴봅니다.
 
 ## 바로가기
 
@@ -27,8 +27,14 @@ Adobe Acrobat PDF 작업, Notta 전사·자막, Fiverr 영상 편집 외주 준�
 | --- | --- |
 | [Fiverr 영상 편집 의뢰: 견적·수정 횟수·납품물 준비](fiverr-video-editing.ko.md) | [Fiverr 영상 편집 의뢰서 양식: 견적 요청부터 납품 확인까지](fiverr-video-editing-brief.ko.md) |
 
+### 팀 메신저
+
+Troop Messenger는 회사·프로젝트 팀의 채팅·파일 공유·통화를 위한 도구입니다. 제공 업체가 운영하는 SaaS와 조직 서버에 설치하는 On-Premise를 구분하세요. 데스크톱·모바일 앱 설치만으로 자체 서버가 준비되는 것은 아닙니다.
+
+[팀 메신저 선택·지원 기기·체험 조건 안내](https://appguideplus.com/ko/troop-messenger/?utm_source=github)
+
 ## 출처와 업데이트
 
 각 글에서 공식 도움말 출처와 내용 확인일을 확인할 수 있습니다. AppGuide+가 작성한 독립 가이드이며 각 서비스의 공식 고객센터는 아닙니다.
 
-목차 업데이트: 2026-09-15.
+목차 업데이트: 2026-10-13.
